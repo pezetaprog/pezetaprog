@@ -21,9 +21,4 @@ Me apasiona el desarrollo de software, la resolución de problemas lógicos y la
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
 
-```xml
-<p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=visual_studio_code](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=visual_studio_code)" alt="Estadísticas de Andrés" />
-</p>
